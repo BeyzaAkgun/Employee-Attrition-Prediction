@@ -111,16 +111,17 @@ Tenure at Company
 [Other features as per model requirements]
 
 👥 Team
-Kubilay Kürtür 
+Beyza Akgün
 
 Ahmet Yiğit Özkoca 
 
-Beyza Akgün 
+Kubilay Kürtür
 
 İlayda Kasapçopur 
 
 
 📚 References
 IBM HR Analytics Attrition Dataset
+
 
 
